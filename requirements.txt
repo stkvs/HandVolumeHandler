@@ -1,0 +1,4 @@
+mediapipe>=0.10.0
+opencv-python>=4.7.0
+pycaw>=20230407
+numpy>=1.23.0
